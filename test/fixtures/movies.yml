@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  director: MyString
+  mpaa: MyString
+  writer: MyString
+
+two:
+  director: MyString
+  mpaa: MyString
+  writer: MyString
